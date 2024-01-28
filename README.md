@@ -1,1 +1,1 @@
-Proyecto *LockR*
+*Proyecto LockR*
