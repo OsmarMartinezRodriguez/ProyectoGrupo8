@@ -1,1 +1,1 @@
-Documentacion de los archivos a usar para el proyecto
+Documentacion de los archivos a utilizar para el proyecto
